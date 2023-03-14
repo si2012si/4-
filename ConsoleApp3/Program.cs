@@ -1,5 +1,5 @@
 ﻿using System;
-using System;
+
 using System.Collections;
 public class MyQueue
 {
@@ -46,6 +46,7 @@ namespace ConsoleApp3
             myQueue.Enqueue("another value");
             myQueue.Peek();
             myQueue.Dequeue();
+            Console.ReadKey(true);
         }
         
 

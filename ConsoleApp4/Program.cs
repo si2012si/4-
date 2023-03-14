@@ -25,7 +25,7 @@ namespace ConsoleApp4
             Console.WriteLine("\nИзвлечение элементов из стека:");
             while (stack.Count > 0) { }
                 Console.WriteLine(stack.Pop());
-            Console.ReadLine();
+
         }
     }
 }

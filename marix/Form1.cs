@@ -110,9 +110,7 @@ namespace marix
         private void button1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.exe");
-            this.Close();
             System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.exe");
-            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)

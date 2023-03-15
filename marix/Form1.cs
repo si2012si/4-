@@ -119,8 +119,24 @@ namespace marix
             
             System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.exe");
             System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.exe");
-         //   System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp5/bin/Debug/net5.0/ConsoleApp5.exe");
+            System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp5/bin/Debug/net5.0/ConsoleApp5.exe");
        
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/ConsoleApp4/bin/Debug/net5.0/ConsoleApp6.exe");
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("C:/Users/777/source/repos/4 курс/arrays/bin/Debug/net5.0/arrays.exe");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
